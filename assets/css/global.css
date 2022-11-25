@@ -14,5 +14,8 @@ body {
 }
 
 .main {
+    margin: 1rem;
     padding: 1rem;
+    border: 1px solid #fff;
+    border-radius: .5rem;
 }

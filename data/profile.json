@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "João Victor S.",
+  "photo": "https://avatars.githubusercontent.com/u/105072791?s=400&u=94ae1706c6d5e1016ed3da8dac8dbe2c18ca60d0&v=4",
+  "job": "Junior Devoloper",
+  "location": "Niquelândia - GO",
+  "phone": "(62) 9671-0782",
+  "email": "joao.victorsoares@outlook.com",
   "skills": {
     "hardSkills": [
       {
@@ -34,7 +34,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Positividade",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +42,27 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/juaovitu13/Pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/juaovitu13/PORTFOLIO",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Sem Experiência",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "description": "Até o momento sem experiências profissionais, porém fazendo projetos práticos e realizando cursos para aprimoramento."
     }
+    
   ]
 }

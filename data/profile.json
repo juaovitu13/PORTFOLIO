@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/data/imgs/csharp.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/data/imgs/python.png"
       },
       {
         "name": ".NET",
@@ -25,11 +25,11 @@
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/data/imgs/nodejs.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [

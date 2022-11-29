@@ -17,11 +17,11 @@
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/assets/img/icons/tools/dot-net-core-7.svg"
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/main/data/imgs/csharp.png"
       },
       {
-        "name": "React",
-        "logo": ""
+        "name": ".NET",
+        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/assets/img/icons/tools/dot-net-core-7.svg"
       },
       {
         "name": "Mongodb",

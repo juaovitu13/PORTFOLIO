@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/assets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/juaovitu13/PORTFOLIO/master/assets/img/icons/tools/java.svg"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
         "name": "C#",
